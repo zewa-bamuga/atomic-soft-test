@@ -60,6 +60,6 @@
 
 <h2>Баг-репорт</h2>
 <ul>
-    Исходя из требований, в программе не было обнаружено багов. Потому, я смоделировал во время разработки один баг и занес его в <a href="https://docs.google.com/spreadsheets/d/1AbbZ-xXJiHfgHLvk5ox48bgdBeKxFwsahPt0NOEB0-w/edit?gid=0#gid=0">Тест-кейсы</a> под номером 7 и завел для него <a href="https://docs.google.com/document/d/1eP8n9qOx63wXVBKCgLOMTY44LNsNtEaT6ZvckPfuFJw/edit?tab=t.0">Баг-репорт</a>
+    Исходя из требований, в программе не было обнаружено багов. Поэтому, я смоделировал во время разработки один баг и занес его в <a href="https://docs.google.com/spreadsheets/d/1AbbZ-xXJiHfgHLvk5ox48bgdBeKxFwsahPt0NOEB0-w/edit?gid=0#gid=0">Тест-кейсы</a> под номером 7 и завел для него <a href="https://docs.google.com/document/d/1eP8n9qOx63wXVBKCgLOMTY44LNsNtEaT6ZvckPfuFJw/edit?tab=t.0">Баг-репорт</a>
 
 </ul>
